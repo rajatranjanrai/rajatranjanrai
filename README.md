@@ -10,15 +10,7 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajatranjanrai.rajatranjanrai&left_color=black&right_color=aqua"  />
-</div>
-
-###
 
 
 <br clear="both">
@@ -40,6 +32,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajatranjanrai.rajatranjanrai&left_color=mediumseagreen&right_color=cyan&left_text=Profile%20Visit"  />
+</div>
+
+###
+
 
 ###
 
