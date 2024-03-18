@@ -4,10 +4,22 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rajatranjanrai&theme=dracula&column=1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatranjanrai&radius=16&theme=react&area=true&order=5&hide_border=true&bg_color=000000&color=1CF2FF&title_color=1CF2FF&line=1CF2FF&point=1CF2FF&area_color=1CF2FF&custom_title=RAJAT%20RANJAN%20Growth%20Graph" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajatranjanrai.rajatranjanrai&left_color=black&right_color=aqua"  />
+</div>
+
+###
+
 
 <br clear="both">
 
